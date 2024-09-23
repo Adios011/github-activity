@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.0
+Build-Jdk-Spec: 20
+Class-Path: my-simple-json-parser-1.0-SNAPSHOT.jar
+Main-Class: com.muhsener98.App
+
